@@ -1,0 +1,4 @@
+EXAMPLE
+VCLOCK CLOCK 0 PULSE(2.5 0 0 0.1 0.1 5 10)
+.tran 20 20
+.plot V(CLOCK)
